@@ -28,15 +28,15 @@ This project explores Netflix’s content catalog using a publicly available dat
 
 
 ```
-netflix-data-analysis/
-├── datasets/
+Netflix_Data_Analysis/
+├── dataset/
 │   └── netflix_titles.csv
 ├── screenshots/
 │   ├── movies-vs-shows.png
 │   ├── content-over-years.png
 │   └── top-countries.png
-├── netflix_analysis.ipynb
-├── requirements.txt
+├── Netflix_data_analysis.ipynb
+├── Requirements.txt
 └── README.md
 ```
 
